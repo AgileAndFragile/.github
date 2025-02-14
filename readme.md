@@ -32,6 +32,3 @@ Please review our [Privacy Policy](https://ptb.discord.com/discovery/application
 ## Feedback:
 If you have any questions, suggestions, or feedback, feel free to reach out to us on Discord!
 
----
-
-### Built with ❤️ by [Your Name or Team Name]
