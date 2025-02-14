@@ -11,8 +11,6 @@ Project Sherpa empowers teams, students, and communities to manage their project
 
 ## How to Get Started:
 1. Invite Project Sherpa to your server.
-2. Connect your Trello account to the bot via the command `/connecttrello`.
-3. Start managing your tasks by typing commands directly in Discord.
 
 ## Privacy and Data Usage:
 We value your privacy. Project Sherpa does not store any personal data. Data related to your Trello account is only used for the purpose of managing tasks and projects within Discord.
