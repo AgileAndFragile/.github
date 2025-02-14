@@ -14,11 +14,6 @@ Project Sherpa empowers teams, students, and communities to manage their project
 2. Connect your Trello account to the bot via the command `/connecttrello`.
 3. Start managing your tasks by typing commands directly in Discord.
 
-## Commands:
-- `/addtask [task_name]`: Add a new task to your Trello board.
-- `/viewtasks`: View all tasks on your Trello board.
-- `/removetask [task_name]`: Remove a task from your Trello board.
-- `/help`: Get a list of all available commands.
 
 ## Privacy and Data Usage:
 We value your privacy. Project Sherpa does not store any personal data. Data related to your Trello account is only used for the purpose of managing tasks and projects within Discord.
