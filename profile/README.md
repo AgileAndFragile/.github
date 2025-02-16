@@ -22,5 +22,5 @@ By using Project Sherpa, you agree to the [Terms of Service](https://ptb.discord
 Please review our [Privacy Policy](https://ptb.discord.com/discovery/applications/1312405298446864427) for more details.
 
 ## Feedback:
-If you have any questions, suggestions, or feedback, feel free to reach out to us on Discord!
+If you have any questions, suggestions, or feedback, feel free to reach out to us on [Discord](https://discord.gg/7J6PAwRgRQ)!
 
