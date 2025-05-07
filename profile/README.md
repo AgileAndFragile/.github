@@ -10,7 +10,10 @@ Project Sherpa is an AI-powered project management bot for Discord, seamlessly i
 Project Sherpa empowers teams, students, and communities to manage their projects effortlessly—all within Discord!
 
 ## How to Get Started:
-1. Invite Project Sherpa to your server.
+1. Click the Activities button.
+2. Select "Project Sherpa" from the activities list
+3. Click "Start Activity" to launch Project Sherpa
+4. Click the “Authorize” button for Project Sherpa to allow access to your data
 
 ## Privacy and Data Usage:
 We value your privacy. Project Sherpa does not store any personal data. Data related to your Trello account is only used for the purpose of managing tasks and projects within Discord.
